@@ -35,7 +35,7 @@ namespace prjStore
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(528, 312);
+            this.ClientSize = new System.Drawing.Size(613, 346);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
